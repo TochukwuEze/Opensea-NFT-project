@@ -1,2 +1,2 @@
 # Opensea-NFT-project
-Opensea NFT project with sanity and thirdweb
+ Opensea-NFT-project with sanity and thirdweb
